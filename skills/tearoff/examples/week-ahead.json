@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-16",
+  "widgets": [
+    {
+      "type": "title",
+      "text": "THE WEEK AHEAD",
+      "sub": "Mon 16 Mar to Fri 20 Mar 2026"
+    },
+    {
+      "type": "text",
+      "font": "serif",
+      "size": 23,
+      "text": "Fourteen lessons, three duties and a parent evening on Thursday. Warm early in the week, showers from Wednesday."
+    },
+    {
+      "type": "week_plan",
+      "days": [
+        {
+          "date": "2026-03-16",
+          "sky": [
+            "sun",
+            "26°"
+          ],
+          "entries": [
+            [
+              "08:35",
+              "12PHY",
+              "Lab 3"
+            ],
+            [
+              "09:35",
+              "9MA",
+              "M2"
+            ],
+            [
+              "13:35",
+              "8MA",
+              "M2"
+            ]
+          ],
+          "note": ""
+        },
+        {
+          "date": "2026-03-17",
+          "sky": [
+            "sun",
+            "27°"
+          ],
+          "entries": [
+            [
+              "08:15",
+              "Duty",
+              "Bus bay"
+            ],
+            [
+              "09:35",
+              "10MA",
+              "M5"
+            ],
+            [
+              "10:55",
+              "11PHY",
+              "Lab 1"
+            ],
+            [
+              "11:55",
+              "9MA",
+              "M2"
+            ]
+          ],
+          "note": ""
+        },
+        {
+          "date": "2026-03-18",
+          "sky": [
+            "rain",
+            "21°"
+          ],
+          "entries": [
+            [
+              "09:35",
+              "8MA",
+              "M2"
+            ],
+            [
+              "10:55",
+              "11PHY",
+              "Lab 1"
+            ],
+            [
+              "12:55",
+              "Duty",
+              "Library steps"
+            ],
+            [
+              "13:35",
+              "10MA",
+              "M5"
+            ]
+          ],
+          "note": "Faculty meeting at 2:45."
+        },
+        {
+          "date": "2026-03-19",
+          "sky": [
+            "rain",
+            "19°"
+          ],
+          "entries": [
+            [
+              "08:35",
+              "12PHY",
+              "Lab 3"
+            ],
+            [
+              "10:55",
+              "9MA",
+              "M2"
+            ],
+            [
+              "13:35",
+              "10MA",
+              "M5"
+            ]
+          ],
+          "note": "Parent evening, 5 to 7:30."
+        },
+        {
+          "date": "2026-03-20",
+          "sky": [
+            "cloud",
+            "20°"
+          ],
+          "entries": [
+            [
+              "09:35",
+              "8MA",
+              "M2"
+            ],
+            [
+              "10:35",
+              "Duty",
+              "Oval"
+            ],
+            [
+              "10:55",
+              "11PHY",
+              "Lab 1"
+            ]
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        [
+          "14",
+          "lessons"
+        ],
+        [
+          "3",
+          "duties"
+        ],
+        [
+          "27°",
+          "warmest day"
+        ]
+      ]
+    },
+    {
+      "type": "checklist",
+      "groups": [
+        [
+          "THIS WEEK",
+          []
+        ]
+      ],
+      "blank": 4
+    },
+    {
+      "type": "fact",
+      "head": "ONE TRUE THING",
+      "text": "Sweat only cools you when it evaporates. In humid air it mostly drips, which is why 27° before rain feels worse than 32° in the dry."
+    },
+    {
+      "type": "signoff",
+      "text": "Have a good week, Sam.",
+      "stamp": "PRINTED BY AN AGENT"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "date": "2026-03-11",
+  "issue": 40,
+  "week": "WK 6",
+  "headline": [
+    "Three classes",
+    "and a meeting",
+    "about meetings."
+  ],
+  "deck": "8MA, 11PHY and 10MA, a lunch duty on the library steps, then the faculty meeting.",
+  "weather": {
+    "place": "RIVERTON",
+    "hours": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "temp": [
+      11,
+      12,
+      14,
+      16,
+      18,
+      20,
+      21,
+      22,
+      22,
+      21,
+      20,
+      19,
+      17,
+      16,
+      15,
+      14,
+      13
+    ],
+    "rain": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      5,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lo": 11,
+    "hi": 22,
+    "sunrise": "6:47",
+    "sunset": "7:22",
+    "daylight": "12h 35m",
+    "uv": 6,
+    "uv_word": "high",
+    "notes": [
+      "Dry all day and 22° by lunch. UV is high from 11 to 2: hat on for the lunch duty."
+    ],
+    "bands": [
+      [
+        9.58,
+        14.58,
+        "YOUR CLASSES",
+        true
+      ]
+    ],
+    "mark_hours": [
+      12
+    ]
+  },
+  "day": [
+    [
+      "09:35",
+      "10:35",
+      "class",
+      "8MA",
+      "Year 8 Maths  ·  M2"
+    ],
+    [
+      "10:55",
+      "11:55",
+      "class",
+      "11PHY",
+      "Year 11 Physics  ·  Lab 1"
+    ],
+    [
+      "12:55",
+      "13:20",
+      "duty",
+      "DUTY  Library steps",
+      ""
+    ],
+    [
+      "13:35",
+      "14:35",
+      "class",
+      "10MA",
+      "Year 10 Maths  ·  M5"
+    ]
+  ],
+  "day_span": [
+    "09:15",
+    "14:50"
+  ],
+  "day_notes": [
+    "Faculty meeting at 2:45 in the maths staffroom."
+  ],
+  "todo": [
+    [
+      "BEFORE SCHOOL",
+      [
+        "Coffee. A big one."
+      ]
+    ],
+    [
+      "AT SCHOOL",
+      [
+        "Bring the agenda item you promised for the faculty meeting."
+      ]
+    ],
+    [
+      "TONIGHT",
+      [
+        "Bins out."
+      ]
+    ]
+  ],
+  "blank_todos": 3,
+  "tomorrow": {
+    "title": "THURSDAY",
+    "rows": [
+      [
+        "08:35",
+        "12PHY",
+        "Lab 3"
+      ],
+      [
+        "10:55",
+        "9MA",
+        "M2"
+      ],
+      [
+        "13:35",
+        "10MA",
+        "M5"
+      ]
+    ],
+    "note": ""
+  },
+  "numbers": [
+    [
+      "70",
+      "day of 2026"
+    ],
+    [
+      "289",
+      "sleeps to Christmas"
+    ],
+    [
+      "12:35",
+      "hours of daylight"
+    ]
+  ],
+  "fact_head": "ONE TRUE THING",
+  "fact": "Adenosine builds up in your brain every hour you are awake and only clears while you sleep. Caffeine does not remove it. It just blocks the receptors. The coffee is not giving you energy. It is hiding the bill.",
+  "signoff": "Go gently, Sam."
+}

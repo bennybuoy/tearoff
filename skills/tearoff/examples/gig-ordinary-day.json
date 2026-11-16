@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-11",
+  "issue": 40,
+  "top": "ONE DAY ONLY",
+  "title": "WEDNESDAY",
+  "tour": "THE MIDWEEK TOUR",
+  "strip": "11 MAR 2026 · RIVERTON · WK 6",
+  "lineup_kicker": "ON THE BILL",
+  "headliner": [
+    "11PHY"
+  ],
+  "second": "8MA  +  10MA",
+  "third": [
+    "LIBRARY STEPS DUTY  ·  FACULTY MEETING"
+  ],
+  "fourth": "three sets and an afternoon of minutes",
+  "stages": [
+    [
+      "MAIN STAGE  ·  SCHOOL",
+      [
+        [
+          "09:35",
+          "8MA",
+          "M2",
+          "Year 8 Maths."
+        ],
+        [
+          "10:55",
+          "11PHY",
+          "Lab 1",
+          "Year 11 Physics."
+        ],
+        [
+          "12:55",
+          "Duty",
+          "Library steps",
+          ""
+        ],
+        [
+          "13:35",
+          "10MA",
+          "M5",
+          "Year 10 Maths."
+        ],
+        [
+          "14:45",
+          "Faculty meeting",
+          "staffroom",
+          ""
+        ]
+      ]
+    ]
+  ],
+  "sky": [
+    [
+      "8 am",
+      "sun",
+      "14°",
+      ""
+    ],
+    [
+      "11 am",
+      "sun",
+      "20°",
+      ""
+    ],
+    [
+      "1 pm",
+      "sun",
+      "22°",
+      "peak"
+    ],
+    [
+      "3 pm",
+      "sun",
+      "21°",
+      ""
+    ],
+    [
+      "8 pm",
+      "moon",
+      "15°",
+      ""
+    ]
+  ],
+  "sky_note": "Dry all day. UV high from 11 to 2.",
+  "rider": [
+    [
+      "AT SCHOOL",
+      [
+        "Bring your agenda item to the faculty meeting."
+      ]
+    ],
+    [
+      "TONIGHT",
+      [
+        "Bins out."
+      ]
+    ]
+  ],
+  "blank": 3,
+  "encore_title": "ENCORE  ·  THURSDAY",
+  "encore": [
+    [
+      "08:35",
+      "12PHY",
+      "Lab 3"
+    ],
+    [
+      "10:55",
+      "9MA",
+      "M2"
+    ],
+    [
+      "13:35",
+      "10MA",
+      "M5"
+    ]
+  ],
+  "sides": [
+    [
+      "SIDE A",
+      "Adenosine builds up in your brain every hour you are awake and only clears while you sleep. Caffeine does not remove it. It just blocks the receptors. The coffee is not giving you energy. It is hiding the bill."
+    ]
+  ],
+  "sign": "NO. 040  ·  PRINTED FOR WED 11 MAR  ·  PRINTED BY AN AGENT"
+}

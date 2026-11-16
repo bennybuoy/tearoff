@@ -1,0 +1,271 @@
+{
+  "date": "2026-03-12",
+  "issue": 42,
+  "top": "ONE DAY ONLY",
+  "title": "THURSDAY",
+  "tour": "THE CHALK & CHORUS TOUR",
+  "strip": "12 MAR 2026 · RIVERTON › TOWN › SHOWGROUND",
+  "lineup_kicker": "ON THE BILL, IN ORDER OF VOLUME",
+  "headliner": [
+    "THE",
+    "LANTERNS"
+  ],
+  "second": "12PHY  +  9MA  +  10MA",
+  "third": [
+    "RECESS DUTY ON THE OVAL",
+    "DINNER IN TOWN  ·  THE 11:12 HOME"
+  ],
+  "fourth": "and a 1 h 40 min intermission",
+  "stages": [
+    [
+      "STAGE ONE  ·  SCHOOL",
+      [
+        [
+          "08:35",
+          "12PHY",
+          "Lab 3",
+          "Year 12 Physics."
+        ],
+        [
+          "10:35",
+          "Duty",
+          "Oval",
+          "35% chance of a shower by then. Take the hat anyway."
+        ],
+        [
+          "10:55",
+          "9MA",
+          "M2",
+          "Year 9 Maths."
+        ],
+        [
+          "11:55",
+          "Intermission",
+          "1 h 40",
+          ""
+        ],
+        [
+          "13:35",
+          "10MA",
+          "M5 *",
+          "Year 10 Maths. * The timetable says M5, the calendar copy says M2."
+        ],
+        [
+          "14:35",
+          "Bell. Go.",
+          "",
+          ""
+        ]
+      ]
+    ],
+    [
+      "STAGE TWO  ·  TOWN",
+      [
+        [
+          "__:__",
+          "Bus to town",
+          "from the school gate",
+          "About 25 min. Check the timetable and write the time in."
+        ],
+        [
+          "17:15",
+          "Dinner",
+          "Noodle bar",
+          "Booked for four."
+        ],
+        [
+          "18:00",
+          "Doors",
+          "Showground",
+          "Stand C, row 14, seats 5 to 8."
+        ],
+        [
+          "19:30",
+          "Show starts",
+          "",
+          ""
+        ],
+        [
+          "22:55",
+          "Finish",
+          "approx",
+          ""
+        ],
+        [
+          "23:12",
+          "Last train",
+          "platform 2",
+          "Showground station is a 10 min walk from the gate."
+        ]
+      ]
+    ]
+  ],
+  "sky": [
+    [
+      "8 am",
+      "sun",
+      "15°",
+      ""
+    ],
+    [
+      "11 am",
+      "sun",
+      "21°",
+      "duty"
+    ],
+    [
+      "2 pm",
+      "cloud",
+      "23°",
+      ""
+    ],
+    [
+      "4 pm",
+      "rain",
+      "21°",
+      "60%"
+    ],
+    [
+      "6 pm",
+      "cloud",
+      "18°",
+      "doors"
+    ],
+    [
+      "10:55",
+      "moon",
+      "15°",
+      "out"
+    ]
+  ],
+  "sky_note": "One shower, most likely around 4. Clear by doors. It is 15° on the platform at 11:12: bring the jacket.",
+  "entry_title": "CONDITIONS OF ENTRY",
+  "entry": [
+    [
+      false,
+      "No umbrellas.",
+      "Ponchos are fine."
+    ],
+    [
+      false,
+      "No bags unless they are clear.",
+      ""
+    ],
+    [
+      false,
+      "No re-entry.",
+      "Once you are in, you are in."
+    ],
+    [
+      true,
+      "Tickets on your phone",
+      "before you leave the house."
+    ],
+    [
+      true,
+      "Extra time for the bag check.",
+      ""
+    ]
+  ],
+  "entry_src": "From the venue's email.",
+  "rider_title": "THE RIDER",
+  "rider": [
+    [
+      "BEFORE SCHOOL",
+      [
+        "All four tickets into the phone wallet.",
+        "Pack the clear bag. A jacket each."
+      ]
+    ],
+    [
+      "AT SCHOOL",
+      [
+        "Confirm the 10MA room: M5 or M2.",
+        "Intermission job: mark the Year 9 quiz."
+      ]
+    ],
+    [
+      "AFTER THE ENCORE",
+      [
+        "Walk to the station. Be on the 11:12."
+      ]
+    ]
+  ],
+  "blank": 3,
+  "inbox_title": "MERCH DESK  ·  YOUR INBOX",
+  "inbox": [
+    [
+      "PARCEL",
+      "Your walking boots are out for delivery today."
+    ],
+    [
+      "LIBRARY",
+      "Two books are due back on Friday."
+    ],
+    [
+      "POWER BILL",
+      "$182 is due on the 20th."
+    ],
+    [
+      "GARAGE",
+      "The car is booked in for Tuesday at 8."
+    ]
+  ],
+  "encore_title": "ENCORE  ·  FRIDAY",
+  "encore": [
+    [
+      "08:15",
+      "Duty",
+      "Bus bay"
+    ],
+    [
+      "09:35",
+      "8MA",
+      "M2"
+    ],
+    [
+      "10:55",
+      "11PHY",
+      "Lab 1"
+    ],
+    [
+      "13:35",
+      "9MA",
+      "M2"
+    ]
+  ],
+  "liner_title": "LINER NOTES",
+  "sides": [
+    [
+      "SIDE A",
+      "When the big chorus gives you goosebumps tonight, that is a tiny muscle at the base of every hair hauling it upright. Same reflex that fluffs up a cold cat. You are trying to raise fur your ancestors gave up long ago."
+    ],
+    [
+      "SIDE B",
+      "From row 14, sound from the stage arrives about a tenth of a second after the light. You will see the drummer hit before you hear it."
+    ]
+  ],
+  "card_cut": "TEAR HERE  ·  POCKET CARD",
+  "card": {
+    "times": [
+      [
+        "DOORS",
+        "6:00"
+      ],
+      [
+        "SHOW",
+        "7:30"
+      ],
+      [
+        "ENDS",
+        "10:55"
+      ]
+    ],
+    "seats": "STAND C  ·  ROW 14  ·  SEATS 5–8",
+    "home_k": "LAST TRAIN",
+    "home": "11:12 pm",
+    "home_d": "Showground station, platform 2",
+    "rules": "CLEAR BAG  ·  NO UMBRELLAS  ·  PHONE TICKETS"
+  },
+  "sign": "NO. 042  ·  PRINTED FOR THU 12 MAR  ·  PRINTED BY AN AGENT"
+}

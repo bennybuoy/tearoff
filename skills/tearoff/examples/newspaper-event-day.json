@@ -1,0 +1,244 @@
+{
+  "date": "2026-03-12",
+  "issue": 41,
+  "week": "WK 6",
+  "headline": [
+    "Teach three.",
+    "Then the lights",
+    "go down."
+  ],
+  "deck": "Three classes and a recess duty. Then four seats in Stand C for The Lanterns.",
+  "weather": {
+    "place": "RIVERTON",
+    "hours": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "temp": [
+      12,
+      13,
+      15,
+      17,
+      19,
+      21,
+      22,
+      23,
+      23,
+      22,
+      21,
+      20,
+      18,
+      17,
+      16,
+      15,
+      14
+    ],
+    "rain": [
+      10,
+      5,
+      0,
+      0,
+      0,
+      5,
+      10,
+      20,
+      35,
+      55,
+      60,
+      40,
+      20,
+      10,
+      5,
+      0,
+      0
+    ],
+    "lo": 12,
+    "hi": 23,
+    "sunrise": "6:48",
+    "sunset": "7:21",
+    "daylight": "12h 33m",
+    "uv": 5,
+    "uv_word": "moderate",
+    "notes": [
+      "A shower is most likely around 4, just as you leave. Take the covered walkway to the car.",
+      "Doors at 6: clearing and 18°. By the encore: 15°. Bring a jacket."
+    ],
+    "bands": [
+      [
+        8.58,
+        14.58,
+        "SCHOOL",
+        false
+      ],
+      [
+        18,
+        22.92,
+        "LANTERNS",
+        true
+      ]
+    ],
+    "mark_hours": [
+      18
+    ]
+  },
+  "day": [
+    [
+      "08:35",
+      "09:35",
+      "class",
+      "12PHY",
+      "Year 12 Physics  ·  Lab 3"
+    ],
+    [
+      "09:35",
+      "10:35",
+      "free",
+      "Free",
+      "60 min"
+    ],
+    [
+      "10:35",
+      "10:55",
+      "duty",
+      "DUTY  Oval",
+      ""
+    ],
+    [
+      "10:55",
+      "11:55",
+      "class",
+      "9MA",
+      "Year 9 Maths  ·  M2"
+    ],
+    [
+      "11:55",
+      "13:35",
+      "free",
+      "The long stretch",
+      "1 h 40 min, lunch included"
+    ],
+    [
+      "13:35",
+      "14:35",
+      "class",
+      "10MA",
+      "Year 10 Maths  ·  M5 *"
+    ]
+  ],
+  "day_span": [
+    "08:15",
+    "14:50"
+  ],
+  "day_notes": [
+    "* Room check: the timetable says M5, the calendar copy still says M2. Trust the timetable, glance before you walk."
+  ],
+  "gap": "3 h 25 min from last bell to doors",
+  "ticket": {
+    "kicker": "TONIGHT  ·  THU 12 MAR",
+    "act": "THE LANTERNS",
+    "tour": "NIGHT BLOOM TOUR",
+    "venue": "Riverton Showground",
+    "cells": [
+      [
+        "DOORS",
+        "6:00"
+      ],
+      [
+        "STAND",
+        "C"
+      ],
+      [
+        "ROW",
+        "14"
+      ],
+      [
+        "SEATS",
+        "5–8"
+      ]
+    ],
+    "foot": "Tickets are in your phone wallet  ·  ends about 10:55",
+    "stub": "ADMIT FOUR"
+  },
+  "todo": [
+    [
+      "BEFORE SCHOOL",
+      [
+        "All four tickets into the phone wallet. Phone charged.",
+        "Clear bag only: the Showground turns other bags away."
+      ]
+    ],
+    [
+      "AT SCHOOL",
+      [
+        "Confirm the 10MA room (M5 or M2).",
+        "Use the long stretch to mark the Year 9 quiz, so tomorrow starts clean."
+      ]
+    ],
+    [
+      "AFTER THE BELL",
+      [
+        "Eat in town before 6. The queue inside is longer than the support act.",
+        "Last train home is 11:12. Do not stay for the second encore."
+      ]
+    ]
+  ],
+  "blank_todos": 3,
+  "tomorrow": {
+    "title": "FRIDAY",
+    "rows": [
+      [
+        "08:15",
+        "Duty",
+        "Bus bay"
+      ],
+      [
+        "09:35",
+        "8MA",
+        "M2"
+      ],
+      [
+        "10:55",
+        "11PHY",
+        "Lab 1"
+      ],
+      [
+        "13:35",
+        "9MA",
+        "M2"
+      ]
+    ],
+    "note": ""
+  },
+  "numbers": [
+    [
+      "71",
+      "day of 2026"
+    ],
+    [
+      "288",
+      "sleeps to Christmas"
+    ],
+    [
+      "12:33",
+      "hours of daylight"
+    ]
+  ],
+  "fact_head": "ONE TRUE THING",
+  "fact": "From row 14, sound from the stage arrives about a tenth of a second after the light. You will see the drummer hit before you hear it.",
+  "signoff": "Have a great one, Sam."
+}

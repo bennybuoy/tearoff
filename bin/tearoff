@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Convenience wrapper: the real command lives inside the skill folder so the
+# skill is self-contained.
+exec python3 "$(cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")/.." && pwd)/skills/tearoff/scripts/tearoff.py" "$@"

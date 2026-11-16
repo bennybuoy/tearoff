@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-16",
+  "widgets": [
+    {
+      "type": "title",
+      "text": "DINNERS THIS WEEK",
+      "sub": "Mon 16 to Fri 20 Mar  ·  serves 3"
+    },
+    {
+      "type": "meal_plan",
+      "title": "",
+      "rows": [
+        [
+          "MON",
+          "Chicken fried rice",
+          "20 min"
+        ],
+        [
+          "TUE",
+          "Beef tacos",
+          ""
+        ],
+        [
+          "WED",
+          "Pesto pasta with peas",
+          ""
+        ],
+        [
+          "THU",
+          "Sausages, mash and greens",
+          ""
+        ],
+        [
+          "FRI",
+          "Homemade pizzas",
+          "everyone tops their own"
+        ]
+      ]
+    },
+    {
+      "type": "cut"
+    },
+    {
+      "type": "shopping_list",
+      "title": "SHOPPING",
+      "store": "for 5 dinners",
+      "items": [
+        "Chicken thighs 600 g",
+        "Eggs x6",
+        "Frozen peas",
+        "Spring onions",
+        "Beef mince 500 g",
+        "Taco shells",
+        "Lettuce",
+        "Tomatoes x4",
+        "Grated cheese",
+        "Sour cream",
+        "Pasta 500 g",
+        "Pesto",
+        "Sausages x8",
+        "Potatoes 1 kg",
+        "Green beans",
+        "Pizza bases x3",
+        "Passata",
+        "Mozzarella",
+        "Mushrooms",
+        "Ham"
+      ],
+      "blank": 2
+    }
+  ]
+}
